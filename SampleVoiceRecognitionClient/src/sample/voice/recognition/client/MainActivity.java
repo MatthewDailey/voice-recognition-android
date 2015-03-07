@@ -1,4 +1,4 @@
-package sample.voice.recognition;
+package sample.voice.recognition.client;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
